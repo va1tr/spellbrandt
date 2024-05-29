@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77724b451393cd4c90886d2b382b4d6, type: 3}
+  m_Name: evelyn-attribute-set
+  m_EditorClassIdentifier: 
+  health: 6
+  attack: 3
+  abilities:
+  - {fileID: 11400000, guid: c5d304b73d118fb4b8812b46237ef14f, type: 2}
+  - {fileID: 11400000, guid: 065f33725ac4f594793d7d151339db1e, type: 2}
